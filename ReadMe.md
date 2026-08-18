@@ -9,7 +9,7 @@ This project runs using the cloud-based **Anaconda Web App** (`anaconda.com/app`
 
 1. Open your web browser and navigate to **[anaconda.com/app](https://anaconda.com/app)**.
 2. Sign in and launch your Anaconda web environment.
-3. Upload the dataset file (`PS.csv`) and the Jupyter notebook file into your working directory.
+3. Download an decompress Dataset file -> (https://drive.google.com/file/d/13JCi2b-ZFFOsik-Mz_ndslFHUiAgxicB/view?usp=drive_link) .Upload the dataset file (`PS.csv`) and the Jupyter notebook file into your working directory. 
 4. Open the notebook and **run all cells sequentially** from top to bottom to ensure dependencies, variables, and model states load properly.
 5. To test a custom transaction manually, pass feature values into `model.predict()` in the final testing cell:
    ```python
